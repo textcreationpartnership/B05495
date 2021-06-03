@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation anent high-vvays bridges and ferries, 1683</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05495</idno><idno type="EEBO-CITATION">53981734</idno>
+  <idno type="VID">180362</idno>
+  <idno type="EEBO-PROQUEST">2240872390</idno>
+  
+            <idno type="STC">Wing S1633</idno>
+            <idno type="STC">ESTC R183364</idno>
+            <idno type="OCLC">53981734</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B05495)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180362)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2826:50)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation anent high-vvays bridges and ferries, 1683</title>
+                  <author>Scotland. Privy Council.</author>
+                  <author>Scotland. Sovereign (1649-1685 : Charles II)</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heir of Andrew Anderson, Printer to his most sacred Majesty,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>Anno Dom. 1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Royal arms at head of text; initial letter.</note>
+                  <note>Dated: Given under Our Signet at Edinburgh, the fourth day of June, one thousand six hundred eighty and three, and of Our Reign the thirtieth fifth year.</note>
+                  <note>Signed: Wil. Paterson, Cls. Sti. Concilii.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Highway law --  Scotland --  Early works to 1800.</term>
+               <term type="topical_term">Bridges --  Law and legislation --  Scotland --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  Politics and government --  1660-1688 --  Sources.</term>
+               <term type="genre_form">Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:180362:1"/>
+            <pb facs="tcp:180362:2"/>
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <q xml:lang="frm">
+                     <gap reason="illegible" extent="6 words">
+                        <desc>〈◊◊◊◊◊◊〉</desc>
+                     </gap>
+                  </q>
+                  <figDesc>royal blazon surmounted by a crown</figDesc>
+               </figure>
+            </head>
+            <head>A PROCLAMATION, Anent High-vvayes Bridges and Ferries, 1683.</head>
+            <opener>
+               <salute>
+                  <hi>
+                     <seg rend="decorInit">C</seg>HARLES,</hi> by the Grace of GOD, King of <hi>Great-Britain, France</hi> and <hi>Ireland,</hi> Defender of the Faith, To Our Lovits, <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> Macers of Our Privy Council, or Messengers at Arms, Our Sheriffs in that part, conjunctly and severally, specially Constitute, Greeting:</salute>
+            </opener>
+            <p>Forasmuch as by the sixteenth <hi>Act</hi> of the first <hi>Session</hi> of Our second <hi>Parliament,</hi> Intituled, <hi>Act for Repairing of High-wayes and Bridges,</hi> The Sheriffs of the respective Shires and their Deputes, and the Justices of Peace, are appointed to con<g ref="char:EOLhyphen"/>veen yearly at the Head-Burghs of the Shires upon the first <hi>Tuesday</hi> of <hi>May,</hi> for setting down a particular List of the High-wayes, Bridges and Ferries within their Bounds, and for Surveying and Repairing the samine, in the way and manner mentioned in the said <hi>Act.</hi> As likewise, the saids Justices of Peace, are ordained to Meet and Conveen again upon the first <hi>Tuesday</hi> of <hi>June</hi> yearly, for taking Account how far the Repairers of the said High-wayes, Bridges and Ferries had proceeded, and for fining of these who had been negligent in their Duty; as also, the whole Free-holders and Heretors of the several Shires, are Authorized and Required, to Conveen at the respective Head-burghs, the said first <hi>Tuesday</hi> of <hi>June</hi> yearly, to call for an Account from the saids Justices of Peace, what Expence might be needful and requisite for Repairing the High-ways and others foresaids, and for Stenting themselves in what should be found neces<g ref="char:EOLhyphen"/>sary for the end foresaid, not exceeding ten Shilling <hi>Scots</hi> yearly, upon each hundred pounds of valued Rent; with Power also to Our Privy Council in case of failʒie, and neglect of performance in the Premisses, that they might take such Course for making the same Effectual, as they should judge expedient, and for punishing the Persons lyable, as their neglect should deserve; and to appoint and Commissionate Over<g ref="char:EOLhyphen"/>seers (with the same Power committed to the Justices of Peace by the said <hi>Act</hi>) for putting the Premisses to Execution; as by the said <hi>Act</hi> among other things, is more fully appointed and declared: Notwithstanding whereof, the said <hi>Act</hi> hitherto hath taken little or no Effect; and We considering how necessary and useful it is for the Kingdom, that the High-wayes, Bridges and Ferries, be put and kept in sufficient Repair, and that the Care, Charges, and Expences of keeping up, and Repairing the same, by the Laws and Customes of Nations, and of this and all well Governed Kingdoms, does belong to, and lyes upon the Inhabitants of the respective Shires and Burghs, within whose Bounds and Jurisdictions the same does locally ly; and that the Bridges of this Kingdom, being Built and Erected by the Piety and Prudence of the Founders, hath by the Care and Policy of former Ages, been kept up in suf<g ref="char:EOLhyphen"/>ficient Repair, till of late (as one of the evil Effects of the Disorders in this Kingdom) some thereof (to the Reproach of this Age) are become ruinous, and others fallen into decay, to the great prejudice of Commerce and Trafficque, and danger of Travellers and Passengers; Do with advice of Our Privy Council, Command and require all Persons lyable by the foresaid <hi>Act,</hi> to give exact and full obedience thereto in all points; And in pursuance thereof, We do nominat and appoint the Sheriffs principal of the Shires, the Stewarts of the Stewartries, Baillies of Regalities, and their Deputes, and Magistrates of Royal Burghs, within their Bounds, to be principal Overseers, for Repairing the High-wayes, Bridges and Ferries in their several Jurisdictions and Bounds, with power to them, with advice of the Justices of Peace in the said respective Shire<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, Jurisdi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tions, and Bounds foresaids, to nominate and ap<g ref="char:EOLhyphen"/>point Deputes, or under Overseers, one or moe, as they shall see needful; and for that end, to call and conveen the Justices of Peace, and Commis<g ref="char:EOLhyphen"/>sioners of Excise (who by an <hi>Act</hi> of Our Privy Council, bearing date the sixth of <hi>Aprile</hi> 1670. are appointed Justices of the Peace to that effect) at such dyets and places as they shall think fit, and to Fine and Amerciat the Absents, and to uplift and exact the same: With power likewise to the saids Overseers and their Deputs, to visit and survey the High-wayes, Bridges and Ferries, and with advice of the Justices of Peace to consider what places needs first to be Repaired; and to appoint the Order, Way and Manner, for Repairing the same, as they shall see most necessary and fitting; and generally with power to the saids Overseers, and their Deputs, to do all and every other things for, and concerning the Premisses, as fully as by the said <hi>Act</hi> is allowed and committed to the Justices of Peace, and others therein mentioned; Requiring hereby the saids Overseers, and their Deputs, to call to ac<g ref="char:EOLhyphen"/>count, all persons in whose hands any Destinations, or Mortifications for the Uses foresaids, are remaining unaccounted for, and undischarged; and also all Collectors and Intrometters with any Sums of Money, imposed by the Heretors and Freeholders of Shires, towards Repairing of High-wayes, Bridges and Ferries, and to this effect, Ordains Letters of Horning under the Signet of Our Privy Council, and other Execution needful, to pass at the Instance of the saids Overseers; and in respect for some years bygone, there hath been little or no Repairs made of the High-wayes, Bridges and Ferries, and that the ten shilling hath not been uplifted, nor imposed in several Shires, and that therethrough, in some places, Bridges are at the point of falling down, which may be at far less Charges kept up, then Re-built; Therefore We do Authorize and Require the Sheriffs, Stewarts, Baillies of Regalities, and their Deputs, and Magistrates of Burghs, to Call and Conv<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en the Heretors and Freeholders of the respective Shires and Jurisdictions foresaids, to meet and con<g ref="char:EOLhyphen"/>veen at the Head-burgh thereof, upon such convenient day or dayes for this year as they shall think fit, and yearly hereafter upon the said first <hi>Tuesday</hi> of <hi>June,</hi> appointed by <hi>Act</hi> of Parliament, and to Impose, Stent and Levy ten Shilling <hi>Scots</hi> upon the hundred pound of valued Rent, for all the saids years past, where it is needful; and in case the ten shilling for the saids years bypast, with the ten shilling for the current years, will not be sufficient for Re<g ref="char:EOLhyphen"/>building of some necessary Bridges, and repairing others (seeing the increase of that Charge and Expence, might, and ought to have been prevented by the care and diligence of those to whom it appertains) We with advice foresaid, do Recommend to the Heretors and others concerned in such Shires and Burghs, that they fall upon some speedy and effectual course for the effectuating of so good and necessary a work. And furder, for accommodating Our Leidges in their Travelling through the Kingdom at Ferries. We do hereby Ordain the 59th. <hi>Act</hi> of King <hi>James</hi> the first, Appointing Ferriers and Boat<g ref="char:EOLhyphen"/>men, to have Bridges for in-putting and out-putting of Horses, and to be continually ready with sufficient Boats, to be put to full and due Execution, under the pains and penalties therein contained. And in regard it falls sometimes out, that Bridges and Ferries are upon the Confines of two Shires, so as it is just and equal, that the Expence of Repairing the same, should burden both; We do Ordain the Overseers, and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heir D<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>puts and Justices of Peace, of the respective Shires, to adjust and accommodat the same so, as both Shires may proportionally bear the Expence thereof, accordi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g to the valuation of these Shires. And to the end We may be fully informed from time to time of, and concerning the condition of H<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gh-wayes, Bridges and Ferries, and diligence used for Maintaing and Repairing thereof, and what effect the same hath taken; We do Command and R<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>quire the Overseers hereby appoint<g ref="char:EOLhyphen"/>ed, and their Deputes, that they give a particular account of the same, under their hands, to the Clerks of Our Privy Council, upon the first <hi>Thursday</hi> of <hi>November</hi> yearly, with Certification, that if the said Overseer, and his Deputes shall failʒi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the performance thereof, they shall there-through be presum<g ref="char:EOLhyphen"/>ed and repute negligent in their said Duty, and be called and conveened before Our Privy Council, and examplarly punished accordingly: And We Or<g ref="char:EOLhyphen"/>dain Process to be sustained, as well at the Instance of any of Our good Subjects, as of Our Advocat, who shall find themselves damnified, or put to trouble, by the neglect of the saids Overseers, in not taking care to have the High-wayes, Bridges and Ferries in their respective Bounds, Maintained and Repaired, in manner as they are hereby Required, for the use and co<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>v<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>niency of Our Leidges, living therein, or others who may have occasion to pass and travel through the same. And to the Effect all persons concerned may have notice of Our Pleasure in the Premisses, and give exact obedience thereto. Our Will is, and We Charge you strictly, and Command, that incontinent these Our Letters seen, ye pass to the Mercat Cross of <hi>Edin<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urgh,</hi> and several Mercat Crosses of the Head Burghs of this Kingdom, and Burghs of Regality, and several Paroch Kirks within the same, upon a <hi>Sunday</hi> after Divine Service, and other places needful, and there, in Our Name and Authority, by open Proclamation, make publication of the Premisses, that none pretend Ignorance. And We Ordain the Sheriffs of the respective Shires foresaids, to cause duly publish these Presents. The which to do, We commit to you, conjunctly and severally, Our full power, by these Our Letters, delivering them by you duly Execute, and indorsed again to the bearer.</p>
+            <closer>
+               <dateline>Given under Our Signet at <hi>Halyrudhouse,</hi>
+                  <date>the fourth day of <hi>June,</hi> One thousand six hundred eighty and three, And of Our Reign, the thirtieth fifth Year.</date>
+               </dateline>
+               <signed>Per actum Dominorum Secreti Concilij. <hi>WIL. PATERSON,</hi> Cls. Sti. Concilij.</signed>
+               <lb/> GOD save the KING.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edin<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urgh,</hi> Printed by the Heir of <hi>Andrew Anderson,</hi> Printer to His most Sacred Majesty, <hi>Anno DOM.</hi> 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
